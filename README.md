@@ -1,95 +1,143 @@
-<div align="center">
-  <h1>Hi 👋, I'm Sri Manikandan</h1>
-  <h3>🌐 Web Developer | 🐍 Python Enthusiast | 🌱 Django Developer</h3>
-</div>
-
-- 🔭 I’m currently working on **job recommendation using gpt**
-
-- 🌱 I’m currently learning **langchain framework and llm**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sri-Manikandan](https://github.com/Sri-Manikandan)
-
-- 💬 Ask me about **python, django and llm**
-
-- 📫 How to reach me **srimanikandandev@gmail.com**
-
-### Contact me at:
-<div align="left">
-  <a href="https://dev.to/sri-manikandan" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-  <a href="mailto:srimanikandandev@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://hashnode.com/@SriManikandan" target="_blank"><img alt="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sri-manikandan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/_manish._7/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-</div>
-
-### Languages and Tools I have worked with:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:f59e0b&height=200&section=header&text=Sri%20Manikandan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Co-Founder&descSize=18&descAlignY=55&descColor=e2e8f0"/>
 
 <div align="center">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img alt="PyPI" src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
-  <img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
-  <br>
-  <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="NumPy"src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <br>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <br>
-  <img alt="mySQl" src="https://img.shields.io/badge/MySQL-4375cc?&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="HuggingFace" src="https://tinyurl.com/2p9ft7xf" />
-  <br>
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <br>
-  <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D9488&center=true&vCenter=true&random=false&width=600&lines=Architecting+AI+Systems+%26+Multi-Agent+Platforms;Full+Stack+Developer+%7C+Python+%7C+React+%7C+Next.js;15%2B+Hackathons+%7C+Co-Founded+a+Tech+Company;Building+Production-Grade+AI+Pipelines)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-manikandan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sri-Manikandan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srimanikandandev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mannisshh_/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=safari&logoColor=white)](https://synergeek.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Sri-Manikandan&color=0d9488&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
-___
+---
+
+## `> whoami`
+
+```python
+class SriManikandan:
+    def __init__(self):
+        self.name = "Sri Manikandan"
+        self.role = "AI Engineer & Full Stack Developer"
+        self.location = "Coimbatore, Tamil Nadu, India"
+        self.education = "B.E. CSE @ Sri Krishna College of Engineering and Technology"
+        self.company = "Co-Founder @ Synergeek Technologies"
+        self.current = "Intern @ Presidio"
+
+    def get_skills(self):
+        return {
+            "AI & ML": ["LLMs & GenAI", "Langchain", "LangGraph", "Multi-Agent Systems", "NLP", "Computer Vision"],
+            "Frontend": ["React", "Next.js", "Tailwind CSS", "JavaScript", "TypeScript"],
+            "Backend": ["Python", "Django", "FastAPI", "Node.js", "Spring Boot"],
+            "DevOps & DB": ["Docker", "AWS", "MongoDB", "PostgreSQL", "Git"]
+        }
+
+    def get_motto(self):
+        return "Bridging cutting-edge AI with scalable full-stack applications"
+```
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=sri-manikandan&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sri-manikandan&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
-</div>
-<br>
 
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### DevOps & Databases
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## Featured Projects
 
 <div align="center">
-  <img alt="Sri Manikandan's GitHub | Stats" src="https://stats.quine.sh/Sri-Manikandan/github?theme=dark" />
-  <img alt="Sri Manikandan's GitHub | Dependencies" src="https://stats.quine.sh/Sri-Manikandan/dependencies?theme=dark" />
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Deep Research Multi-Agent System**](https://github.com/Sri-Manikandan/Deep-Research-Multi-Agent-System) | Multi-agent system deploying subagents for comprehensive research & synthesis | `Python` `LLMs` `Multi-Agent` |
+| [**Production-Grade AI Agent**](https://github.com/Sri-Manikandan/Production-grade-AI-Agent) | AI newsletter generator with FastAPI, Inngest & event-driven architecture | `FastAPI` `OpenAI` `Langchain` |
+| [**AI Call Agent**](https://github.com/Sri-Manikandan/AI-Call-Agent) | Agentic voice assistant for pharmaceutical ordering via real-time calls | `Langchain` `Deepgram` `Voice AI` |
+| [**Complan AI**](https://github.com/Sri-Manikandan/Complan-AI) | GenAI HR bot for learning resources, SWOT analysis & mock interviews | `Streamlit` `Langchain` `Vector DB` |
+| [**SafeWatch AI**](https://github.com/Sri-Manikandan/SafeWatch-AI) | AI child safety tool analyzing website content appropriateness in real-time | `GenAI` `NLP` `Web Scraping` |
+| [**JobFit AI**](https://github.com/Sri-Manikandan/JobFit-AI) | Job acquisition system with resume insights & matching algorithms | `Langchain` `GPT-4o` `DeepLake` |
+
 </div>
-<br>
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=sri-manikandan&column=5&theme=onedark&no-frame=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sri-Manikandan&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=0d9488&icon_color=f59e0b&text_color=c9d1d9&ring_color=0d9488"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Manikandan&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=0d9488&text_color=c9d1d9"/>
 </div>
-<br>
 
-___
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sri-Manikandan&theme=react&hide_border=true&background=0d1117&stroke=0d9488&ring=0d9488&fire=f59e0b&currStreakLabel=0d9488&sideLabels=c9d1d9&dates=8b949e"/>
+</div>
 
-<img alt="Visitor Count" src="https://profile-counter.glitch.me/Sri-Manikandan/count.svg">
+---
+
+## Achievements & Certifications
+
+<div align="center">
+
+| Achievements | Certifications |
+|:---:|:---:|
+| :trophy: Zenith Hackathon 2023 Winner | :cloud: AWS Certified Cloud Practitioner |
+| :trophy: Smart India Hackathon Participant | :snake: Python For Data Science - NPTEL |
+| :star2: CSE Science Expo | :gear: Backend Development & APIs - freeCodeCamp |
+| :bulb: Vyapaar Entrepreneurship Ideathon | :bookmark: Python Foundation - Infosys Springboard |
+
+</div>
+
+---
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sri-Manikandan/Sri-Manikandan/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sri-Manikandan/Sri-Manikandan/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Sri-Manikandan/Sri-Manikandan/blob/output/github-snake-dark.svg" />
+</picture>
+
+> **Note:** To enable the snake animation, add [this GitHub Action workflow](https://github.com/Platane/snk) to your `Sri-Manikandan/Sri-Manikandan` repo.
+
+---
+
+<div align="center">
+
+### Let's Connect & Build Something Amazing!
+
+*"Turning complex ideas into elegant solutions — one commit at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:f59e0b&height=100&section=footer"/>
+
+</div>
