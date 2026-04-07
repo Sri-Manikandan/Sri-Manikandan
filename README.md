@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D9488&center=true&vCenter=true&random=false&width=600&lines=Architecting+AI+Systems+%26+Multi-Agent+Platforms;Full+Stack+Developer+%7C+Python+%7C+React+%7C+Next.js;15%2B+Hackathons+%7C+Co-Founded+a+Tech+Company;Building+Production-Grade+AI+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D9488&center=true&vCenter=true&random=false&width=650&duration=4000&lines=%20Architecting+AI+Systems+%26+Multi-Agent+Platforms;Full+Stack+Developer+%7C+Python+%7C+React+%7C+Next.js;15%2B+Hackathons+%7C+Co-Founded+a+Tech+Company;Building+Production-Grade+AI+Pipelines)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-manikandan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sri-Manikandan)
@@ -95,8 +95,17 @@ class SriManikandan:
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sri-Manikandan&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=0d9488&icon_color=f59e0b&text_color=c9d1d9&ring_color=0d9488"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Manikandan&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=0d9488&text_color=c9d1d9"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sri-Manikandan&theme=github_dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sri-Manikandan&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sri-Manikandan&theme=github_dark&utcOffset=5.5"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sri-Manikandan&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sri-Manikandan&theme=github_dark"/>
 </div>
 
 <div align="center">
@@ -127,9 +136,6 @@ class SriManikandan:
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sri-Manikandan/Sri-Manikandan/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/Sri-Manikandan/Sri-Manikandan/blob/output/github-snake-dark.svg" />
 </picture>
-
-> **Note:** To enable the snake animation, add [this GitHub Action workflow](https://github.com/Platane/snk) to your `Sri-Manikandan/Sri-Manikandan` repo.
-
 ---
 
 <div align="center">
